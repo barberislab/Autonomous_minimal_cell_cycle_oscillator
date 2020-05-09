@@ -1,0 +1,1 @@
+The files in this folder need to be copied into the models/definitions folder in the installation directory of the PeTTSy toolbox.

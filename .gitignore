@@ -1,0 +1,15 @@
+Supp_Code_Repository
+*.ipynb_ch*
+/Figures
+
+__pycache__
+*.db
+*.pyc
+*.DS_Store
+
+*.ai
+*.pdf
+*.png
+*.tiff
+*.tif
+*.zip

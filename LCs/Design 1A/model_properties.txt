@@ -1,0 +1,1 @@
+{'independent variables': ['v_x', 'b_x', 'kp', 'km', 'd', 'l', 'v_y', 'b_y', 'a_xy', 'v_z', 'b_z', 'a_xz', 'a_yz', 'a_zz', 'e', 'v_s', 'b_s'], 'dependent variables': ['x', 'y', 'z', 'sx', 'sy', 'sz', 's', 'clb_free', 'clb_complex'], 'number of phenotypes': 1105920.0, 'number of valid phenotypes': 491, 'signature': '423252141414223131'}

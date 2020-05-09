@@ -1,0 +1,1 @@
+{'independent variables': ['a1', 'rho1', 'K2A', 'K4', 'b1', 'a2', 'b2', 'a3', 'rho3', 'K2R', 'b3', 'a4', 'b4'], 'dependent variables': ['X1', 'X2', 'X3', 'X4', 'X5', 'X6'], 'number of phenotypes': 36.0, 'number of valid phenotypes': 15, 'signature': '311121113121'}
